@@ -1,0 +1,4 @@
+4c17bc25b73bdc76d8c2a6fca3c30def  usr/bin/raspi-config
+966f4014ee05cda97cf013c9beb39d56  usr/lib/raspi-config/cmstart.sh
+3bd9917dafde5be07fad035b7fd01d71  usr/lib/raspi-config/init_resize.sh
+1986f01d613f130ccf8f9d56cba8e55a  usr/share/doc/raspi-config/changelog.gz

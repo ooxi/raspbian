@@ -1,0 +1,5 @@
+2cd05e9c892da388a5c8d64d06887b17  usr/lib/python2.7/dist-packages/RPi.GPIO-0.6.5.egg-info
+bab43260c72be367c36a1f4221fb47d7  usr/lib/python2.7/dist-packages/RPi/GPIO/__init__.py
+b6d00c532d2a832bab784113c8cf17be  usr/lib/python2.7/dist-packages/RPi/_GPIO.arm-linux-gnueabihf.so
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python2.7/dist-packages/RPi/__init__.py
+8db17ce25b7d032c4c6705346181a97d  usr/share/lintian/overrides/python-rpi.gpio

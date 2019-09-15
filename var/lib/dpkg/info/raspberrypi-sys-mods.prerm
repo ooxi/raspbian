@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installinit/12.1.1
+if [ -x "/etc/init.d/sshswitch" ]; then
+	invoke-rc.d sshswitch stop || exit 1
+fi
+# End automatically added section
+# Automatically added by dh_installdeb/12.1.1
+dpkg-maintscript-helper rm_conffile /etc/profile.d/wifi-country.sh 20190429 -- "$@"
+# End automatically added section
+# Automatically added by dh_installdeb/12.1.1
+dpkg-maintscript-helper rm_conffile /etc/profile.d/sshpasswd.sh 20161220 -- "$@"
+# End automatically added section
